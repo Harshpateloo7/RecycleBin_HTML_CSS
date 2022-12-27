@@ -1,0 +1,79 @@
+nav{
+	background-color:#fbefb3;
+	line-height:200%;
+	margin-left:3em;
+	margin-right:3em;
+	list-style-position:center;
+}
+.center{
+	    text-align: center;
+}
+nav li{
+	display:inline;
+	list-style-type:none;
+	padding-right:50px;
+	padding-left:50px;
+	list-style-position:center;
+}
+a {
+	text-decoration: none;
+	color:#14ab3f;
+}
+a:link{
+	color:#14ab3f;
+}
+a:hover{
+	color:#ec834a;
+}
+a:active{
+	color:#000000;
+}
+a:visited{
+	color:14ab3f;
+}
+header img{
+	display:inline;
+	list-style-position:center;
+}
+.hcenter{
+	letter-spacing:10px;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+#left{
+	display:inline;
+	float:center;
+	margin-left:auto;
+}
+#right{
+	display:inline;
+	float:center;
+	margin-right:auto;
+}
+.top{
+	margin-left:3em;
+	margin-right:3em;
+}
+#hp{
+	float:right;
+	margin-right:3em;
+}
+#hgp{
+	list-style:none;
+	line-height:2.5em;
+}
+h1,h2,h3{
+		color:#14ab3f;
+}
+footer{
+	width:auto;
+	height:auto;
+	background-image:url(Images/ricepaper.png);
+	margin-left:3em;
+	margin-right:3em;
+	margin-bottom:5em;
+	text-align:center;
+}
+
